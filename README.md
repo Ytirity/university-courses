@@ -1,7 +1,7 @@
 # university-courses
 Tasks that were done at the [ITMO University](https://en.itmo.ru/en/)
 
-#Timings:
+# Timings:
 * (2-3 term,	2016): C++
 * (3 term, 	2016): Android
 * (3-4 term,	2017): Math Logic and Type Theory
@@ -13,8 +13,7 @@ Tasks that were done at the [ITMO University](https://en.itmo.ru/en/)
 * (6 term,	2018): Haskell
 * (6 term,	2018): Computational Geometry
 * (7 term,	2018): Machine Learning
-
-
+---
 * (3 term,	2021): Parallel Algorithms
 * (3 term,	2021): Software Testing
 
