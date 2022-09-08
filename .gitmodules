@@ -13,3 +13,69 @@
 [submodule "Android/CW_GeoLoc-app"]
 	path = Android/CW_GeoLoc-app
 	url = https://github.com/Pohvalister/GeoLoc-app.git
+[submodule "Assembler/AsmWithCpp"]
+	path = Assembler/AsmWithCpp
+	url = https://github.com/Pohvalister/CPP_with_assembler.git
+[submodule "Assembler/AsmOperations"]
+	path = Assembler/AsmOperations
+	url = https://github.com/Pohvalister/assembler-hw
+[submodule "C++/StlImplementations/signal"]
+	path = C++/StlImplementations/signal
+	url = https://github.com/Pohvalister/CPP_signals-impl.git
+[submodule "C++/StlImplementations/any"]
+	path = C++/StlImplementations/any
+	url = https://github.com/Pohvalister/CPP_any-impl.git
+[submodule "C++/StlImplementations/persistent_set"]
+	path = C++/StlImplementations/persistent_set
+	url = https://github.com/Pohvalister/persistent_set-impl.git
+[submodule "C++/StlImplementations/bind"]
+	path = C++/StlImplementations/bind
+	url = https://github.com/Pohvalister/CPP_bind-impl
+[submodule "C++/1_BigInteger"]
+	path = C++/1_BigInteger
+	url = https://github.com/Pohvalister/CPP_BigInteger-impl.git
+[submodule "C++/2_TemplatedChecker"]
+	path = C++/2_TemplatedChecker
+	url = https://github.com/Pohvalister/templated_overflow_checker.git
+[submodule "C++/3_BigInteger+SmallObj"]
+	path = C++/3_BigInteger+SmallObj
+	url = https://github.com/Pohvalister/BigIntegerSmallOpt-impl.git
+[submodule "C++/CW_ProxyServer"]
+	path = C++/CW_ProxyServer
+	url = https://github.com/Pohvalister/echo_server
+[submodule "Operating Systems/CW_StandaloneTetris"]
+	path = Operating Systems/CW_StandaloneTetris
+	url = https://github.com/Pohvalister/StandaloneTetris.git
+[submodule "Math Logic and Type Theory/TypeTheory_homeworks"]
+	path = Math Logic and Type Theory/TypeTheory_homeworks
+	url = https://github.com/Pohvalister/type_theory-hw.git
+[submodule "Math Logic and Type Theory/MathLogic_homeworks"]
+	path = Math Logic and Type Theory/MathLogic_homeworks
+	url = https://github.com/Pohvalister/mathematical_logic-hw.git
+[submodule "Haskell/homeworks"]
+	path = Haskell/homeworks
+	url = https://github.com/Pohvalister/haskell-hw
+[submodule "Concurrency Programming/homeworks"]
+	path = Concurrency Programming/homeworks
+	url = https://github.com/Pohvalister/concurrency_programming-hw.git
+[submodule "Translation Methods/homeworks"]
+	path = Translation Methods/homeworks
+	url = https://github.com/Pohvalister/translation_methods-hw.git
+[submodule "Computational Geometry/CG_notes"]
+	path = Computational Geometry/CG_notes
+	url = https://github.com/Pohvalister/cg
+[submodule "Machine Learning/homeworks"]
+	path = Machine Learning/homeworks
+	url = https://github.com/Pohvalister/machine_learning-hw.git
+[submodule "Machine Learning/CW_HyperparameterOptimization"]
+	path = Machine Learning/CW_HyperparameterOptimization
+	url = https://github.com/Pohvalister/SMAC_alg-impl.git
+[submodule "Concepts of Modern Science/coursework"]
+	path = Concepts of Modern Science/coursework
+	url = https://github.com/Pohvalister/CMS-team-work.git
+[submodule "Parallel Algorithms/homeworks"]
+	path = Parallel Algorithms/homeworks
+	url = https://github.com/Pohvalister/parallel_algorithms-hw.git
+[submodule "Software Testing/coursework"]
+	path = Software Testing/coursework
+	url = https://github.com/Pohvalister/software_testing-hw.git
