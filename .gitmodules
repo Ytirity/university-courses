@@ -1,0 +1,15 @@
+[submodule "Android/1_Calculator"]
+	path = Android/1_Calculator
+	url = https://github.com/Pohvalister/homework1.git
+[submodule "Android/2_ListOfFilms"]
+	path = Android/2_ListOfFilms
+	url = https://github.com/Pohvalister/homework2.git
+[submodule "Android/3_BroadcastReceiver"]
+	path = Android/3_BroadcastReceiver
+	url = https://github.com/Pohvalister/homework3.git
+[submodule "Android/4_SQLiteCache"]
+	path = Android/4_SQLiteCache
+	url = https://github.com/Pohvalister/homework4.git
+[submodule "Android/CW_GeoLoc-app"]
+	path = Android/CW_GeoLoc-app
+	url = https://github.com/Pohvalister/GeoLoc-app.git
