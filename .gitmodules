@@ -79,3 +79,9 @@
 [submodule "Software Testing/coursework"]
 	path = Software Testing/coursework
 	url = https://github.com/Pohvalister/software_testing-hw.git
+[submodule "_Diploma/Bachelor/source_repo"]
+	path = _Diploma/Bachelor/source_repo
+	url = https://github.com/Pohvalister/Post-Processing
+[submodule "_Diploma/Master/source_repo"]
+	path = _Diploma/Master/source_repo
+	url = https://github.com/Pohvalister/DynamicEATuning.git
