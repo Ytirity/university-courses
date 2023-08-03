@@ -85,3 +85,9 @@
 [submodule "_Diploma/Master/source_repo"]
 	path = _Diploma/Master/source_repo
 	url = https://github.com/Pohvalister/DynamicEATuning.git
+[submodule "Software Engineering Methodology/coursework"]
+	path = Software Engineering Methodology/coursework
+	url = https://github.com/SoftwareEngineeringMethodsCWDEV/GeoCalc.git
+[submodule "Radio Systems Modeling/labs"]
+	path = Radio Systems Modeling/labs
+	url = https://github.com/Pohvalister/systems_modeling-hw.git

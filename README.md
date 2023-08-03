@@ -16,4 +16,6 @@ Tasks that were done at the [ITMO University](https://en.itmo.ru/en/)
 ---
 * (3 term,	2021): Parallel Algorithms
 * (3 term,	2021): Software Testing
-
+---
+* (2 term,	2022): Software Engineering Methodology
+* (2 term,	2022): Radio-electironic Systems Modeling
